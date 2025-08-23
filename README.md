@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Nishan Malla</h1>
 <h3 align="center">I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the System management, and my goal is to strengthen my development skills and explore new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keensha&label=Profile%20views&color=0e75b6&style=flat" alt="keensha" /> </p>
 
 
 - 🔭 I’m currently working on Learning Management System
