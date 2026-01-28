@@ -5,17 +5,17 @@
 
 
 - 🔭 I’m currently working on Learning Management System
-- 
+  
 - 🌱 I’m currently learning React, Next.js, Node.js
-- 
+  
 - 👯 I’m looking to collaborate on Game Development, AI Research, MERN Full Stack Development
-- 
+  
 - 🤔 I’m looking for help with Mobile App Development
-- 
+  
 - 💬 Ask me about Node.js. React.js, PostgreSql
-- 
+  
 - 📫 How to reach me: Contact Through Mail: notnishans@gmail.com
-- 
+  
 Here are some ideas to get you started:
 
 -->
