@@ -16,10 +16,6 @@
   
 - 📫 How to reach me: Contact Through Mail: notnishans@gmail.com
   
-Here are some ideas to get you started:
-
--->
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=notnishans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
